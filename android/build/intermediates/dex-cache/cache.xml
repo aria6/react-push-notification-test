@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.8_53ea1dba57e7535f66ad37a7e20c1e61fe9e2a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/emptyprojecttemplate/react-native-push-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1759c5ef8dab0a4dac5f46b330e3507eb9be0d2f">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/emptyprojecttemplate-react-native-push-notification-unspecified_20ee7b7e723659c139547a3790c0462688b7276f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b2ccec72e34563c41ae7cbb4c4291c7d64dff5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/17.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="515ee7a522ec80b8d1c23260cb28f3b678d8bdd3">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-17.0.4_bbd2c9f6e3abe0524e32601fbc64b5ee1217aed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5133af76a0f59b460f22accd54d4ffd34be6005f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_d0948479bb20389723661a2933b78d76e9eb329a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-stats/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a08c6dadfd96a281d9fddf59a767749e43064c23">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-stats-16.0.1_dfa4f921cadb1ef6fca01dc39c7a32350bfe5efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1d0981daeb592fff743a917975dc0049ea1a3240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_080989bc4d65f58558f7ceef8308219bfc2988a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cdbd0cdbe2b4508b1a4e7f5dca444cb1a108cc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9abdef6b3ea9a6d226f4ef13198d24e32f33ea4d">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-16.0.0_3b2e63fd1398ecdb134760c4b81ecce7fcd42120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_0cb417eaf05866aaca6d82d236486fbdc49da94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1d0981daeb592fff743a917975dc0049ea1a3240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ab2ab6be412dd18a46938ddfe9c2d0b7abe28e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d8d9b0a665a3ea158de48c350a29c5e4bbae619a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_84f18761f3e1f053cf40e453b15b74eba95763fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_d34cfcdfd087314c7bb7fa301b225a18c977f53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_45db0a1aded363864efc68b3e7740b0f09995902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_9ee534fc04a8938d9898b97ba2914ac18c6b8916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_abfa48a3c411fc91b4a4d5ac1c55fdbe0dff0f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_de9ddcc9c1cd47aab4c434ca07db528db9c4d408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_fd802cf279baeeece341f7d2f15dc0069f5414fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fcfb71ade857daa32a54e776f5f0eaeccf75fca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid-interop/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dd86dfc9c6946cf3fc34ba8bebd49e0e0845a89e">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-interop-16.0.1_1bd2224a74d4cacc8a2d63b57e6af1bd9ea7cb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-measurement-connector/17.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9b7b9f800b62f974cd3a75faf1720c010c7ac244">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-measurement-connector-17.0.1_76af3b174998996b1f08d76f0f6455e20b6c6fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1de2ca7c61600cd729222030b8796fd153541fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a0c65061cb9838f4c0cb9030c644f56b7ecb3075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_85f33d9309637f93d1f05a6d4720d1e0f670035b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9d0ff1960f148dafff5b945e8596c060ff3cf88e">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-16.0.1_d39d51be3642863e0cbd5d0800f6d8b7cd426d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_a002933d27d90cb6ea9a862cede181cca11e467c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_fd802cf279baeeece341f7d2f15dc0069f5414fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_45cfccb6876b6d7ef2dd56717a01152aa65f17f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_d0948479bb20389723661a2933b78d76e9eb329a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5133af76a0f59b460f22accd54d4ffd34be6005f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_84f18761f3e1f053cf40e453b15b74eba95763fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_9ee534fc04a8938d9898b97ba2914ac18c6b8916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_d34cfcdfd087314c7bb7fa301b225a18c977f53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_dc27759900d37ebe532089f3b7c7fe52a083dec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b2ccec72e34563c41ae7cbb4c4291c7d64dff5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_44f34866fec8783f8f52458915478fbdd7b391c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_53b279af44c96b3b14289e4673fd8468ab61948d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_080989bc4d65f58558f7ceef8308219bfc2988a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cdbd0cdbe2b4508b1a4e7f5dca444cb1a108cc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-16.0.1_b4c23ad140693696985c6fa035e3c9399dd17e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5b9f57b1fb76487516b73b908f54c60c48202d84">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-16.0.1_af4cc5b613d5ae294b51eb921f7b80c492e37d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/16.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4096514ce1185b89df80681e982486efa30e440e">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-16.0.3_48fa49fa72a380bcf5ef38b42dfb7d26fa2295ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/17.3.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d2bb0c3fd1a65a72ae32cc00cc54fdcbe8c8ca73">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-17.3.4_97673a1eca4ee122a019a1cd92e206beaa4cb2a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c5a0f010d8429fa087ba3ce882cd24af9027868a">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-16.0.0_f88fcbe80e5666bc2ab46328ab319f3a6ab5969e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d8d9b0a665a3ea158de48c350a29c5e4bbae619a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_e720b04faf0ebbc63255002bb4642fd1eac03698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fcfb71ade857daa32a54e776f5f0eaeccf75fca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_492898f6f4199b5d8b062801d9a1a46187b0d5fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ab2ab6be412dd18a46938ddfe9c2d0b7abe28e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_85f33d9309637f93d1f05a6d4720d1e0f670035b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2468751d1253791b3902e6d476b15d7c046f5b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1de2ca7c61600cd729222030b8796fd153541fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_de9ddcc9c1cd47aab4c434ca07db528db9c4d408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Me/projects/temp/react-native-push-notification-test/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a0c65061cb9838f4c0cb9030c644f56b7ecb3075.jar" />
+    </item>
+
+</items>
